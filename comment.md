@@ -82,3 +82,5 @@ This starts the server and makes it listen on the specified port. Once the serve
 The provided code demonstrates how to set up a basic web server with Express. It covers importing the Express module, initializing the application, defining a port, setting up a route handler to respond to GET requests, and starting the server to listen for requests on a specific port. This server is a foundational example of how web servers are created and run in Node.js using Express.
 
 ---
+
+## 02 - GPT Response
